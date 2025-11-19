@@ -6,6 +6,8 @@
 
 ## WebBridge.NET
 
+[[English](https://github.com/XuanchenLin/DotNetWebBridge)] | [简体中文]
+
 ### 🚀 关于项目
 
 这是一个开源的 .NET 库，旨在弥合 Web 应用程序与本机操作系统之间的鸿沟。你可以在浏览器的 JavaScript 上下文中公开自定义 API，允许网页直接异步地与本地系统资源进行交互。

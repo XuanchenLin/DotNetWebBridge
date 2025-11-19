@@ -6,6 +6,8 @@
 
 ## WebBridge.NET
 
+[English] | [[简体中文](https://gitee.com/linxuanchen/DotNetWebBridge)]
+
 ### 🚀 About
 
 This is an open-source .NET library designed to bridge the gap between web applications and the native operating system. You can expose custom APIs in the browser's JavaScript context, allowing web pages to directly and asynchronously interact with local system resources.
